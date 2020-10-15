@@ -1,1 +1,2 @@
-console.log('Hello AppsLab 2020!')
+let message:string = 'Hello World';
+console.log(message);
